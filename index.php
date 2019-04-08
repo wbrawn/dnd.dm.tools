@@ -722,9 +722,6 @@ a:hover {
 	</td>
 
 
-	<td>
-<a href="http://hardcodex.ru/" target="_blank"><font color="blue"> <b>D&D Next Spell Cards</b><br> (5e)</font></a>
-	</td>
 
 <!--
 	<td>
